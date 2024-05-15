@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Green
   - Plane
+  - Border
+  - Floor
+  - Agent
+  - Enemy
+  - Goal_Agent
+  - Goal_Player
+  - Puck
   layers:
   - Default
   - TransparentFX
